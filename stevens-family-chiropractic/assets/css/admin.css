@@ -1,0 +1,28 @@
+/**
+ * Admin Meta Box Styles
+ *
+ * @package Stevens_Chiro
+ */
+
+#stevens_testimonial_details .inside,
+#stevens_service_details .inside {
+	padding: 12px;
+}
+
+#stevens_testimonial_details label,
+#stevens_service_details label {
+	display: block;
+	margin-bottom: 4px;
+}
+
+#stevens_testimonial_details select,
+#stevens_service_details select,
+#stevens_testimonial_details input[type="text"],
+#stevens_service_details input[type="text"] {
+	width: 100%;
+}
+
+#stevens_testimonial_details p,
+#stevens_service_details p {
+	margin-bottom: 12px;
+}
